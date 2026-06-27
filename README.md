@@ -11,8 +11,7 @@
 ## Do Window Key + R > %appdata% > discord > settings.json 
 
 <details>
-  <summary>
-    Click to Expand
+  <summary>Click to Expand </summary>
   {
   "IS_MAXIMIZED": true,
   "IS_MINIMIZED": false,
@@ -34,5 +33,5 @@
   "DESKTOP_TTI_EARLY_UPDATE_CHECK": true,
   "DESKTOP_TTI_REMOVE_V8_CACHE_CLEAR": false,
   "asyncVideoInputDeviceInit": true
-}</summary>
+}
 </details>
