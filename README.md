@@ -11,7 +11,8 @@
 ## Do Window Key + R > %appdata% > discord > settings.json 
 
 <details>
-  <summary>Click to Expand
+  <summary>
+    Click to Expand
   {
   "IS_MAXIMIZED": true,
   "IS_MINIMIZED": false,
