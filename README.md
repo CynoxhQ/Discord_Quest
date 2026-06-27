@@ -44,10 +44,10 @@ Save the settings.json and close the discord application
 
 ## How to use this script:
 
-  1.Accept a quest under the Quests tab
-  2.Press ```Ctrl+Shift+I``` to open DevTools
-  3.Go to the Console tab
-  4.Paste the following code and hit enter:
+1. Accept a quest under the **Quests** tab.
+2. Press `Ctrl + Shift + I` to open **DevTools**.
+3. Go to the **Console** tab.
+4. Paste the following code and press **Enter**.
 
 <details>
 <summary>📦 Click To Expand</summary>
